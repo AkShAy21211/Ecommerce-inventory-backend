@@ -6,7 +6,6 @@ import { UserRoutes } from './app/modules/users/user.route';
 const app = express()
 const PORT = process.env.PORT || 5000;
 
-
 // parser ooptions 
 app.use(express.json());
 app.use(cors());
