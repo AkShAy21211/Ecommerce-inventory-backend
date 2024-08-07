@@ -1,0 +1,8 @@
+we will follow modular rules for API Development
+
+1. Interface/type for Typescript type definitions
+2. Model and mongose schema
+3. zod validation schema
+4. routes
+5. controllers
+6. services
